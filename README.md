@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kusha Kumar
-- 👀 I’m interested in Software Development, playing Cricket, Badminton
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 👀 Software enthusiast, love to play Cricket, Badminton
 - 📫 You can reach me on +91 9493438764 or kushakumar24@gmail.com
 
 <!---
